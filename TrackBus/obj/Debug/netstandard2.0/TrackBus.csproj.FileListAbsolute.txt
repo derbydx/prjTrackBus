@@ -1,0 +1,13 @@
+/Users/derbymartinez/Projects/TrackBus/TrackBus/bin/Debug/netstandard2.0/TrackBus.deps.json
+/Users/derbymartinez/Projects/TrackBus/TrackBus/bin/Debug/netstandard2.0/TrackBus.dll
+/Users/derbymartinez/Projects/TrackBus/TrackBus/bin/Debug/netstandard2.0/ref/TrackBus.dll
+/Users/derbymartinez/Projects/TrackBus/TrackBus/bin/Debug/netstandard2.0/TrackBus.pdb
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/Registro.xaml.g.cs
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.AssemblyInfoInputs.cache
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.AssemblyInfo.cs
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.dll
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/ref/TrackBus.dll
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.pdb

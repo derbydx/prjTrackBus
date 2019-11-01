@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TrackBus.Registro">
+    <ContentPage.Content>
+        <ContentView ControlTemplate="{StaticResource Key=plantilla1}">
+            <ScrollView Orientation="Vertical" HorizontalScrollBarVisibility="Never">
+                <StackLayout Orientation="Vertical" BackgroundColor="LightGray" Padding="20,50,30,20">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <Label Grid.Column="0" Grid.Row="0" Text="Nombre" FontSize="Header" />
+                        <Entry Grid.Column="1" Grid.Row="0" />
+
+                        <Label Grid.Column="0" Grid.Row="1" Text="Email" FontSize="Header" />
+                        <Entry Grid.Column="1" Grid.Row="1" />
+
+                        <Label Grid.Column="0" Grid.Row="2" Text="Contrasena" FontSize="Header" />
+                        <Entry Grid.Column="1" Grid.Row="2" IsPassword="True" />
+
+                        <Label Grid.Column="0" Grid.Row="3" Text="Telefono" FontSize="Header" />
+                        <Entry Grid.Column="1" Grid.Row="3" />
+
+                        <Label Grid.Column="0" Grid.Row="4" Text="Pais" FontSize="Header" />
+                        <Entry Grid.Column="1" Grid.Row="4" />
+
+                        <Label Grid.Column="0" Grid.Row="5" Text="Direccion" FontSize="Header" />
+                        <Entry Grid.Column="1" Grid.Row="5" />
+
+                        <Label Grid.Column="0" Grid.Row="6" Text="Ciudad" FontSize="Header" />
+                        <Entry Grid.Column="1" Grid.Row="6" />
+
+
+
+                    </Grid>
+                    <StackLayout Orientation="Vertical" Padding="0,20">
+                        <Label Text="Biografia" FontSize="Header" HorizontalOptions="Center" />
+                        <Editor Margin="10" HeightRequest="170" />
+                        <Button Text="Registrarse" CornerRadius="3" BackgroundColor="White" x:Name="RegistroBtn"></Button>
+
+                    </StackLayout>
+
+
+                </StackLayout>
+
+            </ScrollView>
+        </ContentView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{30BA2047-7C60-455A-9415-1B29185D0D47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackBus/App.xaml">
+    <Files>
+      <File FileName="TrackBus/MainPage.xaml" Line="10" Column="34" />
+      <File FileName="TrackBus/App.xaml" Line="10" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrackBus" expanded="True">
+            <Node name="TrackBus" expanded="True">
+              <Node name="App.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="TrackBus.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrackBus.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TrackBus.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.37F0D437-79D4-49E2-9855-8F00FB829E92" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
