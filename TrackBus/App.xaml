@@ -11,7 +11,7 @@
                             <RowDefinition Height="auto" />
                             <RowDefinition Height="auto" />
                         </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" Orientation="Vertical" HorizontalOptions="Center">
+                        <StackLayout Grid.Row="0" Orientation="Vertical" HorizontalOptions="Center" Padding="30,60">
 
                             <Image Source="busico.png" WidthRequest="100" HeightRequest="100" />
                             <Label Text="TrackBus UTECO" FontSize="Title"></Label>
@@ -26,5 +26,21 @@
 
             </StackLayout>
         </ControlTemplate>
+        <ResourceDictionary>
+            <Style TargetType="Entry" x:Key="Ent1">
+                <Setter Property="FontSize" Value="20"></Setter>
+                <Setter Property="PlaceholderColor" Value="Black"></Setter>
+
+            </Style>
+
+            <Style TargetType="Button" x:Key="Btn1">
+                <Setter Property="FontSize" Value="20"></Setter>
+                <Setter Property="TextColor" Value="Black"></Setter>
+                <Setter Property="CornerRadius" Value="20"></Setter>
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="BackgroundColor" Value="White"></Setter>
+            </Style>
+
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

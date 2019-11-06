@@ -3,7 +3,7 @@
     <ContentPage.Content>
         <ContentView ControlTemplate="{StaticResource Key=plantilla1}">
             <ScrollView Orientation="Vertical" HorizontalScrollBarVisibility="Never">
-                <StackLayout Orientation="Vertical" BackgroundColor="LightGray" Padding="20,20,30,10">
+                <Frame BackgroundColor="LightGray" Padding="20,20,30,10" CornerRadius="30" HasShadow="False">
                     <Grid>
 
                         <Grid.RowDefinitions>
@@ -12,10 +12,10 @@
                         </Grid.RowDefinitions>
 
                         <StackLayout Grid.Row="0">
-                            <Entry Placeholder="Correo Electronico" PlaceholderColor="White"></Entry>
-                            <Entry Placeholder="Contrasena" PlaceholderColor="White" IsPassword="True"></Entry>
-                            <Button Text="Iniciar Sesion" BackgroundColor="White" CornerRadius="20" TextColor="Gray" FontAttributes="Bold"></Button>
-                            <Button Text="Registrarse" BackgroundColor="White" CornerRadius="20" TextColor="Gray" FontAttributes="Bold" Clicked="OnButtonRegister"></Button>
+                            <Entry Style="{StaticResource Ent1}" Placeholder="Correo Electronico"></Entry>
+                            <Entry Style="{StaticResource Ent1}" Placeholder="Contrasena" IsPassword="True"></Entry>
+                            <Button Style="{StaticResource Btn1}" Text="Iniciar Sesion"></Button >
+                            <Button Style="{StaticResource Btn1}" Text=" Registrarse" Clicked="OnButtonRegister"></Button>
                             <StackLayout Orientation="Horizontal">
                                 <Label Text="Recuperar Contrasena" FontSize="Caption"></Label>
 
@@ -24,7 +24,7 @@
                         </StackLayout>
                     </Grid>
 
-                </StackLayout>
+                </Frame>
 
             </ScrollView>
 
