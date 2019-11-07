@@ -17,9 +17,13 @@ namespace TrackBus
         {
             InitializeComponent();
         }
-        public void OnButtonRegister(object o, EventArgs e)
+        //public void OnButtonRegister(object o, EventArgs e)
+        //{
+        //  Navigation.PushModalAsync(new Registro());
+        //}
+        private async void OnButtonRegister(object sender, EventArgs e)
         {
-            Navigation.PushModalAsync(new Registro());
+            await Navigation.PushAsync(new Registro());
         }
     }
 }

@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{30BA2047-7C60-455A-9415-1B29185D0D47}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TrackBus/Registro.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackBus/MainPage.xaml.cs">
     <Files>
-      <File FileName="TrackBus/MainPage.xaml" Line="26" Column="1" />
+      <File FileName="TrackBus/MainPage.xaml" Line="6" Column="8" />
       <File FileName="TrackBus/App.xaml" Line="14" Column="114" />
-      <File FileName="TrackBus/Registro.xaml" Line="5" Column="1" />
+      <File FileName="TrackBus/Registro.xaml" />
+      <File FileName="TrackBus/MainPage.xaml.cs" Line="30" Column="1" />
+      <File FileName="TrackBus/App.xaml.cs" Line="22" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,8 +13,9 @@
           <Node name="TrackBus" expanded="True">
             <Node name="TrackBus" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
-              <Node name="Registro.xaml" selected="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="TrackBus.Android" expanded="True">
               <Node name="Resources" expanded="True">

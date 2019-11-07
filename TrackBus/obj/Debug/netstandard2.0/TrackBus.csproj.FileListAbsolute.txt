@@ -11,4 +11,3 @@
 /Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.dll
 /Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/ref/TrackBus.dll
 /Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.pdb
-/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.csprojAssemblyReference.cache
