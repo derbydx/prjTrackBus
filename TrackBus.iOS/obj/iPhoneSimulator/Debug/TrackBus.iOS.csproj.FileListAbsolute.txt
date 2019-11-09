@@ -57,3 +57,6 @@
 /Users/derbymartinez/Projects/TrackBus/TrackBus.iOS/obj/iPhoneSimulator/Debug/TrackBus.iOS.csproj.CopyComplete
 /Users/derbymartinez/Projects/TrackBus/TrackBus.iOS/obj/iPhoneSimulator/Debug/TrackBus.iOS.exe
 /Users/derbymartinez/Projects/TrackBus/TrackBus.iOS/obj/iPhoneSimulator/Debug/TrackBus.iOS.pdb
+/Users/derbymartinez/Projects/TrackBus/TrackBus.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/optimized/autobus32.png
+/Users/derbymartinez/Projects/TrackBus/TrackBus.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/optimized/contacto32.png
+/Users/derbymartinez/Projects/TrackBus/TrackBus.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/optimized/notes32.png

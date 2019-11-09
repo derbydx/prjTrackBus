@@ -2,7 +2,7 @@
 <Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="TrackBus.App">
     <Application.Resources>
         <ControlTemplate x:Key="plantilla1">
-            <StackLayout Orientation="Vertical" Padding="10,50,10,10">
+            <StackLayout Orientation="Vertical" Padding="10,50,10,10" BackgroundColor="AliceBlue">
                 <!--<Image Source="bus3.jpg" Aspect="AspectFill" />-->
                 <!--<BoxView Color="Gray" Opacity="0.7"></BoxView>-->
                 <ContentView HorizontalOptions="Center">
@@ -30,6 +30,7 @@
             <Style TargetType="Entry" x:Key="Ent1">
                 <Setter Property="FontSize" Value="20"></Setter>
                 <Setter Property="PlaceholderColor" Value="Black"></Setter>
+
 
             </Style>
 

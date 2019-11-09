@@ -25,5 +25,9 @@ namespace TrackBus
         {
             await Navigation.PushAsync(new Registro());
         }
+        private void Iniciar_clicked(object o, EventArgs e)
+        {
+            Application.Current.MainPage = new PaginaTab();
+        }
     }
 }

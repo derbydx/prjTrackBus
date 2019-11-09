@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TrackBus.Registro">
     <ContentPage.Content>
-        <ContentView ControlTemplate="{StaticResource Key=plantilla1}">
-            <ScrollView Orientation="Vertical" HorizontalScrollBarVisibility="Never">
+        <ScrollView Orientation="Vertical" HorizontalScrollBarVisibility="Never">
+            <ContentView ControlTemplate="{StaticResource Key=plantilla1}">
+
                 <StackLayout Orientation="Vertical" BackgroundColor="LightGray" Padding="20,50,30,20">
                     <Grid>
                         <Grid.ColumnDefinitions>
@@ -53,7 +54,8 @@
 
                 </StackLayout>
 
-            </ScrollView>
-        </ContentView>
+            </ContentView>
+        </ScrollView>
+
     </ContentPage.Content>
 </ContentPage>

@@ -133,5 +133,8 @@
   <ItemGroup>
     <BundleResource Include="Resources\bus3.jpg" />
     <BundleResource Include="Resources\busico.png" />
+    <BundleResource Include="Resources\autobus32.png" />
+    <BundleResource Include="Resources\contacto32.png" />
+    <BundleResource Include="Resources\notes32.png" />
   </ItemGroup>
 </Project>
