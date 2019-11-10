@@ -47,7 +47,7 @@
                     <StackLayout Orientation="Vertical" Padding="0,20">
                         <Label Text="Biografia" FontSize="Header" HorizontalOptions="Center" />
                         <Editor Margin="10" HeightRequest="170" />
-                        <Button Text="Registrarse" CornerRadius="3" BackgroundColor="White" x:Name="RegistroBtn"></Button>
+                        <Button Style="{StaticResource Btn1}" Text="Registrarse" x:Name="RegistroBtn"></Button>
 
                     </StackLayout>
 

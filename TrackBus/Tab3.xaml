@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TrackBus.Tab3" Title="Contacto">
     <ContentPage.Content>
         <Frame VerticalOptions="CenterAndExpand">
-            <Label Text="soy tab 3"></Label>
+            <Label Text="Hoja de contactos"></Label>
         </Frame>
     </ContentPage.Content>
 </ContentPage>
