@@ -12,9 +12,10 @@ namespace TrackBus
         {
 
             InitializeComponent();
-
             Datos = new List<Autobus>();
             Datos.Add(new Autobus()
+
+
             {
                 Imagen = "autobus32.png",
                 Nombre = "Ruta 1 Cotui-Fantino",
@@ -35,9 +36,12 @@ namespace TrackBus
                 Chofer = "Jefferson Smith"
             });
             ListaBus.ItemsSource = Datos;
+
         }
 
     }
+
+
     //1- Crear la clase autobus 
     public class Autobus
     {
@@ -47,5 +51,8 @@ namespace TrackBus
 
 
     }
+
+
+
 }
 

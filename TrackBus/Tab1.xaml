@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TrackBus.Tab1" Title="Bus">
 
-    <ListView x:Name="ListaBus" HasUnevenRows="True">
+    <ListView x:Name="ListaBus" HasUnevenRows="True" Margin="10,100">
 
-        <ListView.ItemTemplate>
+        <ListView.ItemTemplate ItemTapped="ListItemTapped">
             <DataTemplate>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal" Padding="0,30">

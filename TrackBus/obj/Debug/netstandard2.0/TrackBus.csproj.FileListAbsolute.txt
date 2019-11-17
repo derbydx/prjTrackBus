@@ -16,3 +16,6 @@
 /Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/ref/TrackBus.dll
 /Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.pdb
 /Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/TrackBus.csprojAssemblyReference.cache
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/MasterDetailBus.xaml.g.cs
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/MasterDetailBusDetail.xaml.g.cs
+/Users/derbymartinez/Projects/TrackBus/TrackBus/obj/Debug/netstandard2.0/MasterDetailBusMaster.xaml.g.cs

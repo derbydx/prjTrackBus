@@ -4,4 +4,5 @@
     <local1:Tab1 IconImageSource="autobus32.png" />
     <local1:Tab2 IconImageSource="notes32.png" />
     <local1:Tab3 IconImageSource="contacto32.png" />
+    <local1:MasterDetailBus IconImageSource="autobus32.png" Title="Buses"/>
 </TabbedPage>

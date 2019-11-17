@@ -13,14 +13,19 @@ namespace TrackBus
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+        // para declarar y agregar binding al label 
+        public string Recuperar { get; set; } = Constantes.RecuperarPass;
+        public string Correo { get; set; } = Constantes.Correoe;
+
+
         public MainPage()
         {
             InitializeComponent();
+
+            //binding del label 
+            BindingContext = this;
         }
-        //public void OnButtonRegister(object o, EventArgs e)
-        //{
-        //  Navigation.PushModalAsync(new Registro());
-        //}
+
         private async void OnButtonRegister(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new Registro());

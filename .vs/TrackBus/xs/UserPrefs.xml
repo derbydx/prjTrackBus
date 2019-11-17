@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{30BA2047-7C60-455A-9415-1B29185D0D47}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TrackBus/Tab1.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackBus/Constantes.cs">
     <Files>
-      <File FileName="TrackBus/Tab1.xaml" Line="13" Column="67" />
-      <File FileName="TrackBus/Tab1.xaml.cs" />
+      <File FileName="TrackBus/Constantes.cs" Line="16" Column="1" />
+      <File FileName="TrackBus/MainPage.xaml" Line="27" Column="1" />
+      <File FileName="TrackBus/MainPage.xaml.cs" Line="18" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TrackBus" expanded="True">
             <Node name="TrackBus" expanded="True">
-              <Node name="Tab1.xaml" expanded="True" selected="True" />
-              <Node name="Tab2.xaml" expanded="True" />
+              <Node name="Constantes.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
-            <Node name="TrackBus.Android" expanded="True" />
-            <Node name="TrackBus.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -21,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TrackBus.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TrackBus.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.37F0D437-79D4-49E2-9855-8F00FB829E92" />
+  <MonoDevelop.Ide.ItemProperties.TrackBus.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.554F95BF-465F-40C5-96D5-193F1B867A77" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
