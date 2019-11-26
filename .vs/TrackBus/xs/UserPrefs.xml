@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{30BA2047-7C60-455A-9415-1B29185D0D47}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TrackBus/Constantes.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackBus/MainPage.xaml.cs">
     <Files>
       <File FileName="TrackBus/Constantes.cs" Line="16" Column="1" />
-      <File FileName="TrackBus/MainPage.xaml" Line="27" Column="1" />
+      <File FileName="TrackBus/MainPage.xaml" />
       <File FileName="TrackBus/MainPage.xaml.cs" Line="18" Column="29" />
     </Files>
     <Pads>
@@ -10,8 +10,9 @@
         <State name="__root__">
           <Node name="TrackBus" expanded="True">
             <Node name="TrackBus" expanded="True">
-              <Node name="Constantes.cs" selected="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
