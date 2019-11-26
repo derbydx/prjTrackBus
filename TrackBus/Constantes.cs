@@ -8,7 +8,7 @@ namespace TrackBus
 
     public class Constantes
     {
-        public static string RecuperarPass = "Olvidaste la Clave?";
+        public static string RecuperarPass = "Recuperar Clave";
         public static string Correoe = "Correo Electronico";
     }
 }
